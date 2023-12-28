@@ -1,0 +1,13 @@
+F.
+======================================================================
+FAIL: test_fail (test_fail.TestFileFail)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "F:\PycharmProject\500Lines\ci_system_clone_runner\tests\test_fail.py", line 7, in test_fail
+    self.fail("I will fail")
+AssertionError: I will fail
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+FAILED (failures=1)
